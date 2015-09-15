@@ -2,7 +2,7 @@
 
 ### 安装
 
-请先岸砖[composer](https://getcomposer.org/)，并设置为全局使用
+请先安装[composer](https://getcomposer.org/)，并设置为全局使用。
 
 **下载Laravel安装器**
 
@@ -82,6 +82,7 @@ storage 和 bootstrap/cache文件目录必须可写。
 	php artisan serve
 
 提示:
+
 	Laravel development server started on http://localhost:8000/
 
  访问: localhost:8000,可以看到一个大大的laravel 5字体。
